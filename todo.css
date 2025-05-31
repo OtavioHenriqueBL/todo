@@ -1,0 +1,15 @@
+#table {
+    background-color: rgb(254, 199, 98);
+    color: rgba(14, 168, 14, 0.799);
+    display: inline-block;
+    margin-left: 35%;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+header {
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
