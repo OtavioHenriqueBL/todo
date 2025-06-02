@@ -1,7 +1,6 @@
 addEventListener("DOMContentLoaded", () => checkCookie());
 
 let tasks = [];
-let dones = []; //separar as completadas das outras
 
 function addTask(taskname, done) {
     if(taskname == '') {
